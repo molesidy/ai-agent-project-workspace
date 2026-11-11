@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "skills": {
+    "claude-md-improver": {
+      "source": "anthropics/claude-plugins-official",
+      "sourceType": "github",
+      "skillPath": "plugins/claude-md-management/skills/claude-md-improver/SKILL.md",
+      "computedHash": "d6067bb87758243b6817ae021a0b72e409db8919cec22a4cdfc053cd5b269622"
+    },
+    "context-compression": {
+      "source": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "sourceType": "github",
+      "skillPath": "skills/context-compression/SKILL.md",
+      "computedHash": "71ad9897eb3e5efa89787de407874f420146d1a3014e93801f5e5167091e685e"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "karpathy-guidelines": {
+      "source": "szkocot/andrej-karpathy-skills",
+      "sourceType": "github",
+      "skillPath": "skills/karpathy-guidelines/SKILL.md",
+      "computedHash": "e64131803b0a34b8c39afc11338a74f8305cf8f69f750620bdf6cb38f6865c52"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "computedHash": "5a699fa929d99d7e6b1ebe10f13bf960d9ad452b70bd0733efd5d1de9524e285"
+    },
+    "notemdpro": {
+      "source": "Jacobinwwey/notemdpro",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "60eb272b4dd21846389264ab937ee31d5937e322b6e7caef44f48db7f95b45d9"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "computedHash": "2d7f889e6ae93c6c27d699856942c336b5b8644537496987d5571043d059b1dc"
+    },
+    "using-superpowers": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/using-superpowers/SKILL.md",
+      "computedHash": "6a9104fac7e16c3cec2bc118943aefd331cac35b4cfabd427cea4dc16337c6a5"
+    }
+  }
+}
