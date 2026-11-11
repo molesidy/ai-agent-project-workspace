@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "skills": {
+    "baoyu-format-markdown": {
+      "source": "JimLiu/baoyu-skills",
+      "sourceType": "github",
+      "skillPath": "skills/baoyu-format-markdown/SKILL.md",
+      "computedHash": "e1819351cdb862a6387e0a98abba63526cac23ead71246f4fc0f21a941763cbc"
+    },
+    "context-engineering": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/context-engineering/SKILL.md",
+      "computedHash": "0b9e3d177ec4e42d9b39c76ef8ee751f88cce40e3879c785a1a8c6eeabc6119d"
+    },
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/docx/SKILL.md",
+      "computedHash": "566b0933d95f5a2f981050e781162e19cebacfdff5608ab23dbe556aaf7a59e5"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pdf/SKILL.md",
+      "computedHash": "48032992527f297b532782a85f9d4132417805eff1630944009bceb990d93f9a"
+    },
+    "planning-with-files": {
+      "source": "https://gh.dpik.top/https://github.com/othmanadi/planning-with-files.git",
+      "sourceUrl": "https://gh.dpik.top/https://github.com/othmanadi/planning-with-files.git",
+      "sourceType": "git",
+      "skillPath": "skills/planning-with-files/SKILL.md",
+      "computedHash": "ddbf6d1fabf8af11e6ea8f0916d5083557747eb74b5fb09cf3a858ea77245c67"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pptx/SKILL.md",
+      "computedHash": "cdec30578287eed9c8cdb12391f8a464c349ad9f9ea2543b3d9ad7d73b372c5c"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/xlsx/SKILL.md",
+      "computedHash": "3572b018005308f765480622987ef576fcdf9ea332d1024d3fe6c58cd65566a1"
+    },
+    "xmind": {
+      "source": "Mitscherlich/skills",
+      "sourceType": "github",
+      "skillPath": "skills/xmind/SKILL.md",
+      "computedHash": "b3ef31b5c3bcc85a4c73220e3b6ab6a1263f465003989d2e3ed7a010d3845d1f"
+    }
+  }
+}

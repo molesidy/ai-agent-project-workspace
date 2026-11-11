@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "chomper": {
+      "type": "stdio",
+      "command": "d:/path/to/Chomper/venv/Scripts/python.exe",
+      "args": [
+        "d:/path/to/Chomper/server.py"
+      ]
+    }
+  }
+}
